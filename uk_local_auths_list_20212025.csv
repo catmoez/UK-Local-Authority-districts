@@ -1,0 +1,368 @@
+﻿Area,County,District,ElecYear,TopParty,TopPartyPct,NextParty,NextPartyPct,Notes
+England,Cambridgeshire,,2025,Liberal Democrats,27.4,Conservative,23.7,Top parties by vote share
+England,Cambridgeshire,Cambridge,2025,Labour,30.4,Liberal Democrats,23.8,Lib Dem 1st in seats
+England,Cambridgeshire,East Cambridgeshire,2025,Liberal Democrats,36.5,Reform UK,25.1,
+England,Cambridgeshire,Fenland,2025,Reform UK,40,Conservative,35.4,
+England,Cambridgeshire,Huntingdonshire,2025,Reform UK,27.8,Conservative,27.6,Con 1st in seats
+England,Cambridgeshire,South Cambridgeshire,2025,Liberal Democrats,40.1,Conservative,21.4,
+England,Derbyshire,,2025,Reform UK,36.8,Conservative,21,
+England,Derbyshire,Amber Valley,2025,Reform UK,35,Conservative,18.9,Greens 2nd in seats
+England,Derbyshire,Bolsover,2025,Reform UK,54,Labour,21.1,
+England,Derbyshire,Chesterfield,2025,Reform UK,35.7,Labour,23.7,Lib Dem 2nd in seats
+England,Derbyshire,Derbyshire Dales,2025,Reform UK,28.7,Conservative,27.1,Con 1st in seats
+England,Derbyshire,Erewash,2025,Reform UK,40.9,Conservative,26.8,
+England,Derbyshire,High Peak,2025,Reform UK,26.6,Labour,24.9,Con 1st in seats
+England,Derbyshire,North East Derbyshire,2025,Reform UK,36.8,Conservative,26.3,
+England,Derbyshire,South Derbyshire,2025,Reform UK,41.9,Conservative,20.6,
+England,Devon,,2025,Liberal Democrats,28.6,Reform UK,26.8,
+England,Devon,East Devon,2025,Liberal Democrats,26.6,Reform UK,25,
+England,Devon,Exeter,2025,Labour,27.3,Reform UK,24,
+England,Devon,Mid Devon,2025,Liberal Democrats,36.5,Reform UK,29,
+England,Devon,North Devon,2025,Liberal Democrats,35.8,Reform UK,27,
+England,Devon,South Hams,2025,Liberal Democrats,35.8,Conservative,23.6,
+England,Devon,Teignbridge,2025,Liberal Democrats,30.7,Reform UK,29.1,
+England,Devon,Torridge,2025,Liberal Democrats,31.8,Reform UK,31.7,
+England,Devon,West Devon,2025,Reform UK,28.9,Conservative,26.4,
+England,Gloucestershire,,2025,Liberal Democrats,27.2,Reform UK,25.2,
+England,Gloucestershire,Cheltenham,2025,Liberal Democrats,44.9,Reform UK,20.3,
+England,Gloucestershire,Cotswold,2025,Liberal Democrats,38.9,Conservative,30.4,
+England,Gloucestershire,Forest of Dean,2025,Reform UK,33,Green,22.1,
+England,Gloucestershire,Gloucester,2025,Reform UK,28.3,Liberal Democrats,26.5,
+England,Gloucestershire,Stroud,2025,Green,31.1,Reform UK,22.5,
+England,Gloucestershire,Tewkesbury,2025,Liberal Democrats,36.6,Reform UK,28.9,
+England,Hertfordshire,,2025,Liberal Democrats,26.1,Conservative,25.9,
+England,Hertfordshire,Broxbourne,2025,Conservative,38,Reform UK,35.3,
+England,Hertfordshire,Dacorum,2025,Liberal Democrats,27.6,Conservative,26.6,
+England,Hertfordshire,East Hertfordshire,2025,Conservative,28.7,Reform UK,27.2,Greens 1st in seats
+England,Hertfordshire,Hertsmere,2025,Conservative,35.8,Reform UK,23.8,
+England,Hertfordshire,North Hertfordshire,2025,Labour Co-op,35,Conservative,30,
+England,Hertfordshire,St Albans,2025,Liberal Democrats,45.6,Conservative,21.6,
+England,Hertfordshire,Stevenage,2025,Reform UK,34.8,Labour,24,
+England,Hertfordshire,Three Rivers,2025,Liberal Democrats,31.9,Conservative,28,
+England,Hertfordshire,Watford,2025,Liberal Democrats,45.1,Labour,20.4,
+England,Hertfordshire,Welwyn Hatfield,2025,Conservative,26.9,Reform UK,26.5,
+England,Kent,,2025,Reform UK,37,Conservative,21.6,
+England,Kent,Ashford,2025,Reform UK,41.8,Conservative,21.6,
+England,Kent,Canterbury,2025,Reform UK,31.1,Labour,20.1,
+England,Kent,Dartford,2025,Reform UK,40.9,Conservative,30.2,
+England,Kent,Dover,2025,Reform UK,42.5,Labour,20,
+England,Kent,Folkestone and Hythe,2025,Reform UK,43.5,Green,16.9,
+England,Kent,Gravesham,2025,Reform UK,44.1,Labour,22.4,
+England,Kent,Maidstone,2025,Reform UK,34.6,Conservative,23.1,
+England,Kent,Sevenoaks,2025,Reform UK,32.4,Conservative,32.3,
+England,Kent,Swale,2025,Reform UK,44.2,Conservative,13.2,
+England,Kent,Thanet,2025,Reform UK,39.7,Conservative,18.7,
+England,Kent,Tonbridge and Malling,2025,Conservative,27.9,Green,26.6,
+England,Kent,Tunbridge Wells,2025,Liberal Democrats,32.5,Reform UK,22.8,
+England,Lancashire,,2025,Reform UK,35.7,Conservative,21.1,
+England,Lancashire,Burnley,2025,Reform UK,37.9,Independent,17.8,
+England,Lancashire,Chorley,2025,Reform UK,36.5,Labour,32.4,
+England,Lancashire,Fylde,2025,Conservative,34.2,Reform UK,30.9,
+England,Lancashire,Hyndburn,2025,Reform UK,41.7,Labour,25.3,Greens 2nd in seats
+England,Lancashire,Lancaster,2025,Reform UK,31.6,Green,25,
+England,Lancashire,Pendle,2025,Reform UK,28.4,Conservative,24.6,Independents 2nd in seats
+England,Lancashire,Preston,2025,Reform UK,27.8,Liberal Democrats,23.8,Lib Dem 1st in seats
+England,Lancashire,Ribble Valley,2025,Reform UK,37.9,Conservative,21.8,
+England,Lancashire,Rossendale,2025,Reform UK,43.5,Labour,26.1,
+England,Lancashire,South Ribble,2025,Reform UK,37.7,Conservative,23.5,Lib Dem 2nd in seats
+England,Lancashire,West Lancashire,2025,Reform UK,34.4,Labour,21.4,OWL (Localist) 2nd in seats
+England,Lancashire,Wyre,2025,Reform UK,44.3,Conservative,30,
+England,Leicestershire,,2025,Reform UK,32.4,Conservative,28.4,
+England,Leicestershire,Blaby,2025,Reform UK,35.8,Conservative,28.6,
+England,Leicestershire,Charnwood,2025,Reform UK,32.3,Conservative,30.4,Con 1st in seats
+England,Leicestershire,Harborough,2025,Conservative,31.7,Reform UK,28.4,
+England,Leicestershire,Hinckley and Bosworth,2025,Reform UK,32.5,Liberal Democrats,31.5,Lib Dem 1st in seats
+England,Leicestershire,Melton,2025,Conservative,33.7,Reform UK,31.3,
+England,Leicestershire,North West Leicestershire,2025,Reform UK,41.2,Conservative,25.2,
+England,Leicestershire,Oadby and Wigston,2025,Liberal Democrats,35.3,Conservative,24,Reform 2nd in seats
+England,Lincolnshire,,2025,Reform UK,39.2,Conservative,27.2,
+England,Lincolnshire,Boston,2025,Reform UK,47.7,Boston Independent,24.8,
+England,Lincolnshire,Lincoln,2025,Reform UK,41.9,Conservative,25.1,
+England,Lincolnshire,East Lindsey,2025,Reform UK,49.1,Green,26.9,
+England,Lincolnshire,South Holland,2025,Reform UK,51.2,Conservative,31.8,
+England,Lincolnshire,North Kesteven,2025,Reform UK,34.8,Conservative,31.4,My district summary
+England,Lincolnshire,South Kesteven,2025,Reform UK,30.2,Conservative,30,My district summary
+England,Lincolnshire,West Lindsey,2025,Reform UK,36,Conservative,27.2,My district summary
+England,Nottinghamshire,,2025,Reform UK,36.3,Conservative,20.9,
+England,Nottinghamshire,Ashfield,2025,Reform UK,50,Ashfield Independents,30.4,Districts and Boroughs within
+England,Nottinghamshire,Bassetlaw,2025,Reform UK,45.1,Conservative,22.8,
+England,Nottinghamshire,Broxtowe,2025,Reform UK,28,Broxtowe Alliance,20.3,My district summary
+England,Nottinghamshire,Gedling,2025,Reform UK,33.4,Labour,27.1,My district summary
+England,Nottinghamshire,Mansfield,2025,Reform UK,49.9,Labour,17.1,My district summary
+England,Nottinghamshire,Newark and Sherwood,2025,Reform UK,33.7,Conservative,33.6,My district summary
+England,Nottinghamshire,Rushcliffe,2025,Conservative,35.3,Labour,22.3,My district summary
+England,Oxfordshire,,2025,Liberal Democrats,30.08,Conservative,21.31,Labour 2nd in seats
+England,Oxfordshire,Cherwell,2025,Liberal Democrats,35.5,Conservative,28.8,
+England,Oxfordshire,Oxford,2025,Green,48.6,Labour Co-op,22.6,
+England,Oxfordshire,South Oxfordshire,2025,Green,33.8,Liberal Democrats,29.4,
+England,Oxfordshire,Vale of White Horse,2025,Liberal Democrats,54,Conservative,23.6,
+England,Oxfordshire,West Oxfordshire,2025,Conservative,37.1,Liberal Democrats,35.8,
+England,Staffordshire,,2025,Reform UK,41.2,Conservative,27.8,
+England,Staffordshire,Cannock Chase,2025,Reform UK,53.5,Conservative,18.4,
+England,Staffordshire,East Staffordshire,2025,Reform UK,37.4,Conservative,31.8,
+England,Staffordshire,Lichfield,2025,Reform UK,36.5,Conservative,30.5,
+England,Staffordshire,Newcastle-under-Lyme,2025,Reform UK,44.7,Conservative,25.2,
+England,Staffordshire,South Staffordshire,2025,Reform UK,41.9,Conservative,34.5,
+England,Staffordshire,Stafford,2025,Reform UK,32.4,Conservative,27.3,
+England,Staffordshire,Staffordshire Moorlands,2025,Reform UK,40.3,Conservative,29.8,
+England,Staffordshire,Tamworth,2025,Reform UK,49.5,Conservative,22.8,
+England,Warwickshire,,2025,Reform UK,30.44,Conservative,25.2,Lib Dem 2nd in seats
+England,Warwickshire,North Warwickshire,2025,Reform UK,46.6,Conservative,26.2,
+England,Warwickshire,Nuneaton and Bedworth,2025,Reform UK,44.7,Conservative,22.4,Greens 2nd in seats
+England,Warwickshire,Rugby,2025,Conservative,30.1,Reform UK,27.9,
+England,Warwickshire,Stratford-upon-Avon,2025,Liberal Democrats,31.9,Conservative,30.9,My district summary
+England,Warwickshire,Warwick,2025,Green,26.5,Liberal Democrats,18.5,
+England,Worcestershire,,2025,Reform UK,31.6,Conservative,25.7,
+England,Worcestershire,Bromsgrove,2025,Reform UK,29.3,Conservative,28.5,
+England,Worcestershire,Malvern Hills,2025,Green,26.8,Reform UK,22.6,Lib Dem 2nd in seats
+England,Worcestershire,Redditch,2025,Reform UK,39.2,Conservative,25.8,
+England,Worcestershire,Worcester,2025,Green,30.4,Reform UK,26.1,
+England,Worcestershire,Wychavon,2025,Conservative,33.1,Reform UK,30.5,
+England,Worcestershire,Wyre Forest,2025,Reform UK,38.4,Conservative,26.8,
+England,Doncaster,Doncaster,2025,Reform UK,36.2,Labour,29.6,Metro borough with wards
+England,Buckinghamshire,Buckinghamshire,2025,Conservative,31.4,Liberal Democrats,26.4,Unitary authority with wards
+England,Cornwall,Cornwall,2025,Reform UK,29.1,Liberal Democrats,24.4,
+England,County Durham,County Durham,2025,Reform UK,34.4,Labour,19.5,Lib Dem 2nd in seats
+England,North Northamptonshire,North Northamptonshire,2025,Reform UK,35,Conservative,25.9,
+England,Northumberland,Northumberland,2025,Reform UK,29.3,Conservative,28.9,Con 1st in seats
+England,Shropshire,Shropshire,2025,Liberal Democrats,34.2,Reform UK,27.4,
+England,West Northamptonshire,West Northamptonshire,2025,Reform UK,33,Conservative,26,
+England,Wiltshire,Wiltshire,2025,Liberal Democrats,33.9,Conservative,32.1,
+England,East Sussex,,2021,Conservative,42,Liberal Democrats,20.9,
+England,East Sussex,Eastbourne,2021,Liberal Democrats,43.3,Conservative,39,
+England,East Sussex,Hastings,2021,Conservative,38.9,Labour,37.8,
+England,East Sussex,Lewes,2021,Conservative,33.7,Liberal Democrats,25.8,Lib Dem 1st in seats
+England,East Sussex,Rother,2021,Conservative,48.9,Independent,17.3,
+England,East Sussex,Wealden,2021,Conservative,47,Liberal Democrats,17.9,Independents 2nd in seats
+England,Essex,,2021,Conservative,48.8,Labour,17.1,Lib Dem 2nd in seats
+England,Essex,Basildon,2021,Conservative,52.6,Labour,23.9,
+England,Essex,Braintree,2021,Conservative,51.1,Green,27.3,
+England,Essex,Brentwood,2021,Conservative,50.2,Liberal Democrats,28.6,
+England,Essex,Castle Point,2021,Conservative,44.2,Independent,22,
+England,Essex,Chelmsford,2021,Conservative,48.2,Liberal Democrats,29,
+England,Essex,Colchester,2021,Conservative,44.2,Labour,24.1,
+England,Essex,Epping Forest,2021,Conservative,50.7,Loughton Residents,14.2,
+England,Essex,Harlow,2021,Conservative,54.4,Labour,35.2,
+England,Essex,Maldon,2021,Conservative,47.2,Independent,27.3,
+England,Essex,Rochford,2021,Conservative,45.9,Liberal Democrats,19.7,
+England,Essex,Tendring,2021,Conservative,50.7,Labour,16.8,
+England,Essex,Uttlesford,2021,Conservative,39.5,Residents for Uttlesford,36.5,
+England,Hampshire,,2021,Conservative,50.7,Liberal Democrats,26.8,
+England,Hampshire,Basingstoke and Deane,2021,Conservative,49.8,Labour,22.1,
+England,Hampshire,East Hampshire,2021,Conservative,50.9,Liberal Democrats,25.1,WBCP 2nd in seats
+England,Hampshire,Eastleigh,2021,Liberal Democrats,43.4,Conservative,37.8,
+England,Hampshire,Fareham,2021,Conservative,55.2,Liberal Democrats,21.4,
+England,Hampshire,Gosport,2021,Conservative,50.7,Liberal Democrats,31.6,
+England,Hampshire,Hart,2021,Conservative,49.7,Liberal Democrats,28.9,
+England,Hampshire,Havant,2021,Conservative,60.8,Labour,16.9,
+England,Hampshire,New Forest,2021,Conservative,55,Liberal Democrats,22.7,
+England,Hampshire,Rushmoor,2021,Conservative,50.3,Labour,31.3,
+England,Hampshire,Test Valley,2021,Conservative,52,Liberal Democrats,32.2,
+England,Hampshire,Winchester,2021,Conservative,46,Liberal Democrats,37.5,
+England,Norfolk,,2021,Conservative,48.4,Labour,22.1,
+England,Norfolk,Breckland,2021,Conservative,61.6,Labour,23,
+England,Norfolk,Broadland,2021,Conservative,52.6,Liberal Democrats,19.7,
+England,Norfolk,Great Yarmouth,2021,Conservative,58.8,Labour,27.5,
+England,Norfolk,King's Lynn and West Norfolk,2021,Conservative,56.5,Independent,17.4,
+England,Norfolk,North Norfolk,2021,Conservative,44.4,Liberal Democrats,35.7,
+England,Norfolk,Norwich,2021,Labour,44.9,Green,24.1,
+England,Norfolk,South Norfolk,2021,Conservative,50.2,Liberal Democrats,19.9,
+England,Surrey,,2021,Conservative,42.2,Liberal Democrats,24.7,
+England,Surrey,Elmbridge,2021,Conservative,46,Liberal Democrats,31,Residents 2nd in seats
+England,Surrey,Epsom and Ewell,2021,Residents,44.8,Conservative,22.9,
+England,Surrey,Guildford,2021,Conservative,37.3,Liberal Democrats,26.8,Lib Dem 1st in seats
+England,Surrey,Mole Valley,2021,Conservative,39.1,Liberal Democrats,38.1,
+England,Surrey,Reigate and Banstead,2021,Conservative,48.6,Green,17.8,
+England,Surrey,Runnymede,2021,Conservative,49.2,Labour,19.6,
+England,Surrey,Spelthorne,2021,Conservative,43.2,Labour,17.5,
+England,Surrey,Surrey Heath,2021,Conservative,49,Liberal Democrats,32.1,
+England,Surrey,Tandridge,2021,Conservative,46.3,Liberal Democrats,23.3,
+England,Surrey,Waverley,2021,Conservative,39.2,Liberal Democrats,30.2,Lib Dem 1st in seats
+England,Surrey,Woking,2021,Conservative,41.3,Liberal Democrats,30.1,
+England,Suffolk,,2021,Conservative,48,Labour,21.5,Greens 2nd in seats
+England,Suffolk,Babergh,2021,Conservative,40.4,Green,23.5,
+England,Suffolk,East Suffolk,2021,Conservative,53.5,Labour,21.1,Greens 2nd in seats
+England,Suffolk,Ipswich,2021,Conservative,41.9,Labour,37,
+England,Suffolk,Mid Suffolk,2021,Conservative,44.9,Green,20.6,
+England,Suffolk,West Suffolk,2021,Conservative,52.5,Labour,17.8,
+England,West Sussex,,2021,Conservative,46.7,Liberal Democrats,19.5,
+England,West Sussex,Adur,2021,Conservative,48.8,Labour,36,
+England,West Sussex,Arun,2021,Conservative,55.7,Liberal Democrats,26.3,
+England,West Sussex,Chichester,2021,Conservative,50.9,Liberal Democrats,29,
+England,West Sussex,Crawley,2021,Labour,47.3,Conservative,36.4,
+England,West Sussex,Horsham,2021,Conservative,53,Labour,18.7,
+England,West Sussex,Mid Sussex,2021,Liberal Democrats,43,Conservative,36.9,
+England,West Sussex,Worthing,2021,Labour,45.8,Conservative,39.6,
+England,Isle of Wight,Isle of Wight,2021,Conservative,38.7,Independent,24.4,Divisions only
+England,Thurrock,Thurrock,2024,Labour,52.1,Conservative,29.4,One third election; Most recent of 3
+England,Bolton,Bolton,2023,Labour,40.4,Conservative,32.7,"Metro borough, whole council (next few)"
+England,Liverpool,Liverpool,2023,Labour,53.1,Liberal Democrats,21.6,
+England,Oldham,Oldham,2023,Labour,46.5,Liberal Democrats,17.7,
+England,Stockport,Stockport,2023,Liberal Democrats,38.5,Labour,32.5,
+England,Tameside,Tameside,2023,Labour,63.4,Conservative,23.7,
+England,Trafford,Trafford,2023,Labour,44.6,Conservative,28.4,
+England,Wigan,Wigan,2023,Labour,60.9,Conservative,17.3,
+England,Wirral,Wirral,2023,Labour,38.9,Conservative,22.8,
+England,Wolverhampton,Wolverhampton,2023,Labour,57.2,Conservative,37,
+England,Barnsley,Barnsley,2023,Labour,46.1,Liberal Democrats,17.5,"Metro boroughs, One third of council (this and all remaining for 2023). Many also held elections in 2024 - not listed here"
+England,Bradford,Bradford,2023,Labour,47,Conservative,24,
+England,Bury,Bury,2023,Labour,46.3,Conservative,29.2,
+England,Calderdale,Calderdale,2023,Labour,44.1,Conservative,29.3,
+England,Coventry,Coventry,2023,Labour,50.4,Conservative,29.5,
+England,Dudley,Dudley,2023,Labour,43.8,Conservative,42.4,Elecs also held 2024 but no vote share breakdown
+England,Gateshead,Gateshead,2023,Labour,50.3,Liberal Democrats,27.5,
+England,Kirklees,Kirklees,2023,Labour,42.6,Conservative,30.4,
+England,Knowsley,Knowsley,2023,Labour,59,Green,23.2,
+England,Leeds,Leeds,2023,Labour,44.4,Conservative,22.3,
+England,Manchester,Manchester,2023,Labour,64.6,Green,14,Lib Dem 2nd in seats
+England,Newcastle upon Tyne,Newcastle upon Tyne,2023,Labour,41.9,Liberal Democrats,27.8,
+England,North Tyneside,North Tyneside,2024,Labour,58,Conservative,18.1,Elecs also held 2023
+England,Rochdale,Rochdale,2023,Labour,51.2,Conservative,22.1,
+England,Salford,Salford,2023,Labour,57.3,Conservative,23.5,
+England,Sandwell,Sandwell,2023,Labour,57.8,Conservative,28.5,
+England,Sefton,Sefton,2023,Labour,52.9,Liberal Democrats,16.4,
+England,Sheffield,Sheffield,2023,Labour,39.6,Liberal Democrats,26.2,
+England,Solihull,Solihull,2023,Conservative,38.4,Green,29.8,
+England,South Tyneside,South Tyneside,2023,Labour,44,Independent,22.7,Greens 2nd in seats
+England,Sunderland,Sunderland,2023,Labour,45.3,Conservative,22.6,Lib Dem 2nd in seats
+England,Wakefield,Wakefield,2023,Labour,52.7,Conservative,21.7,
+England,Walsall,Walsall,2023,Conservative,46.1,Labour,40.9,
+England,Bath and North East Somerset,Bath and North East Somerset,2023,Liberal Democrats,41.9,Conservative,23.8,"Councils, whole council; Labour 2nd in seats"
+England,Bedford,Bedford,2023,Labour,29.4,Conservative,27.9,
+England,Blackpool,Blackpool,2023,Labour,48,Conservative,42.8,
+England,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole",2023,Liberal Democrats,31.4,Conservative,25.8,
+England,Bracknell Forest,Bracknell Forest,2023,Conservative,42.4,Labour,30.4,Labour 1st in seats
+England,Brighton and Hove,Brighton and Hove,2023,Labour,46.4,Green,26.5,
+England,Central Bedfordshire,Central Bedfordshire,2023,Independent,32.7,Conservative,26.3,
+England,Cheshire East,Cheshire East,2023,Conservative,36.7,Labour,30.2,
+England,Cheshire West and Chester,Cheshire West and Chester,2023,Labour,42.6,Conservative,31.7,
+England,Darlington,Darlington,2023,Conservative,37.1,Labour,34.9,Labour 1st in seats
+England,Derby,Derby,2023,Labour,41.2,Conservative,29.4,
+England,East Riding of Yorkshire,East Riding of Yorkshire,2023,Conservative,35.7,Liberal Democrats,29.6,
+England,Herefordshire,Herefordshire,2023,Conservative,34.6,Liberal Democrats,24.2,
+England,Leicester,Leicester,2023,Labour,40.4,Conservative,34.8,
+England,Luton,Luton,2023,Labour,48.7,Liberal Democrats,35.6,
+England,Medway,Medway,2023,Labour,44.4,Conservative,38.8,
+England,Middlesbrough,Middlesbrough,2023,Labour,46.5,Independent,30.1,
+England,North Lincolnshire,North Lincolnshire,2023,Conservative,,Labour,,No vote share reported for whole council. https://en.wikipedia.org/wiki/2023_United_Kingdom_local_elections
+England,North Somerset,North Somerset,2023,Conservative,32.6,Liberal Democrats,23.1,Labour 2nd in seats
+England,Nottingham,Nottingham,2023,Labour,,Nottingham Ind,,No vote share reported for whole council
+England,Redcar and Cleveland,Redcar and Cleveland,2023,Labour,31.6,Conservative,26,
+England,Rutland,Rutland,2023,Liberal Democrats,,Independent,,No vote share reported for whole council
+England,Slough,Slough,2023,Conservative,46.3,Labour,42.8,
+England,Southampton,Southampton,2023,Labour,45.5,Conservative,33.4,
+England,South Gloucestershire,South Gloucestershire,2023,Conservative,35.9,Liberal Democrats,33.9,
+England,Stockton-on-Tees,Stockton-on-Tees,2023,Conservative,43,Labour,33.6,
+England,Stoke-on-Trent,Stoke-on-Trent,2023,Labour,46.9,Conservative,38.7,
+England,Telford and Wrekin,Telford and Wrekin,2023,Labour,52.9,Conservative,26.6,
+England,Torbay,Torbay,2023,Conservative,44.1,Liberal Democrats,36.6,
+England,West Berkshire,West Berkshire,2023,Liberal Democrats,42.8,Conservative,31.2,
+England,Windsor and Maidenhead,Windsor and Maidenhead,2023,Liberal Democrats,44.6,Conservative,29.4,
+England,York,York,2023,Labour,42.4,Liberal Democrats,31.1,
+England,Blackburn with Darwen,Blackburn with Darwen,2023,Labour,63,Conservative,30.3,"Council, third of council"
+England,Halton,Halton,2023,Labour,64.4,Conservative,16,Lib Dem 2nd in seats
+England,Hartlepool,Hartlepool,2023,Labour,44.6,Conservative,22.6,
+England,Hull,Hull,2023,Liberal Democrats,49.2,Labour,41,
+England,Milton Keynes,Milton Keynes,2023,Labour,38.2,Conservative,32.7,
+England,North East Lincolnshire,North East Lincolnshire,2023,Conservative,41.5,Labour,38.1,
+England,Peterborough,Peterborough,2023,Conservative,37.6,Labour,34,
+England,Plymouth,Plymouth,2023,Labour,45.3,Conservative,25,
+England,Portsmouth,Portsmouth,2023,Liberal Democrats,29.3,Labour,27.5,Con 2nd in seats
+England,Reading,Reading,2023,Labour,47.3,Conservative,21.3,Greens 2nd in seats
+England,Southend-on-Sea,Southend-on-Sea,2023,Conservative,33.2,Labour,28.7,
+England,Swindon,Swindon,2023,Labour,51.9,Conservative,34.7,Thurrock 2023 as well
+England,Wokingham,Wokingham,2024,Liberal Democrats,41.2,Conservative,37.9,Time fixed effects would make sense here for other riding shifts
+England,Rotherham,Rotherham,2024,Labour,,Conservative,,No vote share reported for whole council
+England,Bristol,"Bristol, City of",2024,Green,41.2,Labour,31.7,
+England,Dorset,Dorset,2024,Liberal Democrats,36.7,Conservative,34.6,
+England,Warrington,Warrington,2024,Labour,47.2,Liberal Democrats,17.2,
+England,Barnsley,Barnsley,2024,Labour,48.9,Liberal Democrats,16.5,Repeats (1st) vs above. One-third of council
+England,Bolton,Bolton,2024,Labour,33.7,Conservative,19.5,
+England,Bradford,Bradford,2024,Labour,32.8,Independent,21.1,
+England,Bury,Bury,2024,Labour,45.4,Conservative,25.9,
+England,Calderdale,Calderdale,2024,Labour,41.1,Conservative,26.1,
+England,Coventry,Coventry,2024,Labour,49.8,Conservative,26.9,
+England,Gateshead,Gateshead,2024,Labour,49.5,Liberal Democrats,25.6,
+England,Kirklees,Kirklees,2024,Labour,31.2,Conservative,24.2,
+England,Knowsley,Knowsley,2024,Labour,63.1,Green,23.2,
+England,Leeds,Leeds,2024,Labour,43.3,Conservative,20.5,
+England,Manchester,Manchester,2024,Labour,53.7,Green,17.5,
+England,Newcastle upon Tyne,Newcastle upon Tyne,2024,Labour,40.6,Liberal Democrats,24.8,
+England,Oldham,Oldham,2024,Independent,38.4,Labour,29.1,Labour 1st in seats
+England,Rochdale,Rochdale,2024,Labour,42.1,Conservative,18.5,
+England,Salford,Salford,2024,Labour,58.3,Conservative,20.7,
+England,Sandwell,Sandwell,2024,Labour,56.9,Conservative,21.3,
+England,Sefton,Sefton,2024,Labour,54,Liberal Democrats,16.7,
+England,Sheffield,Sheffield,2024,Labour,39.8,Liberal Democrats,21.7,
+England,Solihull,Solihull,2024,Conservative,50.5,Labour,18.7,Greens 2nd in seats
+England,South Tyneside,South Tyneside,2024,Labour,35.5,Independent,31.9,
+England,Stockport,Stockport,2024,Liberal Democrats,34.2,Labour,31.7,
+England,Sunderland,Sunderland,2024,Labour,45.4,Conservative,18.2,Lib Dem 2nd in seats
+England,Tameside,Tameside,2024,Labour,52.1,Conservative,20.3,
+England,Trafford,Trafford,2024,Labour,41.9,Conservative,25.2,
+England,Wakefield,Wakefield,2024,Labour,53.9,Conservative,18.8,
+England,Walsall,Walsall,2024,Conservative,37.1,Labour,34.5,
+England,Wigan,Wigan,2024,Labour,51.7,Independent,17.6,
+England,Wolverhampton,Wolverhampton,2024,Labour,56.1,Conservative,32.7,
+England,Isles of Scilly,Isles of Scilly,2025,Independent,77.3,Independent,22.7,Only ward with vote share presented for the total
+England,Cumberland,Cumberland,2022,Labour,39.1,Conservative,34.1,Figures from map inset used
+England,Westmorland and Furness,Westmorland and Furness,2022,Liberal Democrats,39.8,Conservative,27.7,Figures from map inset used
+England,North Yorkshire,North Yorkshire,2022,Conservative,41.2,Labour,17.3,Independents 2nd in seats
+England,Somerset,Somerset,2022,Liberal Democrats,43.9,Conservative,37.3,
+England,St. Helens,St. Helens,2022,Labour,52.5,Independent,15.4,
+England,Birmingham,Birmingham,2022,Labour,51.5,Conservative,27.5,
+England - London,City of London,City of London,2025,Independent,83,Temple & Farringdon Together,10,No vote share available; seat share presented
+England - London,Barking and Dagenham,Barking and Dagenham,2022,Labour,79.7,Conservative,17.4,See https://en.wikipedia.org/wiki/2022_London_local_elections
+England - London,Barnet,Barnet,2022,Labour,43,Conservative,35.1,
+England - London,Bexley,Bexley,2022,Conservative,50.8,Labour,44,
+England - London,Brent,Brent,2022,Labour,57.9,Conservative,24.3,
+England - London,Bromley,Bromley,2022,Conservative,41.6,Labour,32,
+England - London,Camden,Camden,2022,Labour,56.6,Liberal Democrats,17.6,
+England - London,Croydon,Croydon,2022,Conservative,38.5,Labour,34.5,
+England - London,Ealing,Ealing,2022,Labour,51.1,Conservative,24.3,Lib Dem 2nd in seats
+England - London,Enfield,Enfield,2022,Labour,45.5,Conservative,36.8,
+England - London,Greenwich,Greenwich,2022,Labour,57.9,Conservative,23.1,
+England - London,Hackney,Hackney,2022,Labour,58.9,Green,23,Con 2nd in seats
+England - London,Hammersmith and Fulham,Hammersmith and Fulham,2022,Labour,57.1,Conservative,29.1,
+England - London,Haringey,Haringey,2022,Labour,59.9,Liberal Democrats,24,
+England - London,Harrow,Harrow,2022,Conservative,47.1,Labour,40.7,
+England - London,Havering,Havering,2022,Havering Residents Association,38.4,Conservative,33.1,Con 1st in seats
+England - London,Hillingdon,Hillingdon,2022,Conservative,48.2,Labour,41.5,
+England - London,Hounslow,Hounslow,2022,Labour,54.7,Conservative,31.3,
+England - London,Islington,Islington,2022,Labour,54.2,Green,22.4,
+England - London,Kensington and Chelsea,Kensington and Chelsea,2022,Conservative,48.7,Labour,33.6,
+England - London,Kingston upon Thames,Kingston upon Thames,2022,Liberal Democrats,47.9,Conservative,25.4,
+England - London,Lambeth,Lambeth,2022,Labour,54.1,Green,22.2,Lib Dem 2nd in seats
+England - London,Lewisham,Lewisham,2022,Labour,55.4,Green,19.9,
+England - London,Merton,Merton,2022,Labour,42.3,Liberal Democrats,25,
+England - London,Newham,Newham,2022,Labour,61.5,Green,16.7,
+England - London,Redbridge,Redbridge,2022,Labour,58.4,Conservative,32.7,
+England - London,Richmond upon Thames,Richmond upon Thames,2022,Liberal Democrats,56.5,Conservative,26.6,Greens 2nd in seats
+England - London,Southwark,Southwark,2022,Labour,52.6,Liberal Democrats,19.5,
+England - London,Sutton,Sutton,2022,Liberal Democrats,39.6,Conservative,36.2,
+England - London,Tower Hamlets,Tower Hamlets,2022,Aspire,36.9,Labour,36.5,
+England - London,Waltham Forest,Waltham Forest,2022,Labour,59.2,Conservative,22.2,
+England - London,Wandsworth,Wandsworth,2022,Labour,46.3,Conservative,38,
+England - London,Westminster,Westminster,2022,Labour,48,Conservative,40.3,
+Wales,Isle of Anglesey,Isle of Anglesey,2022,Plaid Cymru,40.7,Independent,29.5,See https://en.wikipedia.org/wiki/2022_Welsh_local_elections
+Wales,Blaenau Gwent,Blaenau Gwent,2022,Labour,49.9,Independent,44.5,
+Wales,Bridgend,Bridgend,2022,Labour,44.7,Independent,35.6,
+Wales,Caerphilly,Caerphilly,2022,Labour,43.4,Plaid Cymru,36.2,
+Wales,Cardiff,Cardiff,2022,Labour,44.8,Conservative,13.9,
+Wales,Carmarthenshire,Carmarthenshire,2022,Plaid Cymru,50.7,Labour,30.7,No vote share available; seat share presented
+Wales,Ceredigion,Ceredigion,2022,Plaid Cymru,48.5,Independent,27.7,
+Wales,Conwy,Conwy,2022,Independent,33.5,Conservative,31.5,
+Wales,Denbighshire,Denbighshire,2022,Labour,39.6,Independent,25,No vote share available; seat share presented
+Wales,Flintshire,Flintshire,2022,Labour,46.3,Independent,44.8,No vote share available; seat share presented
+Wales,Gwynedd,Gwynedd,2022,Plaid Cymru,50.5,Independent,39.2,
+Wales,Merthyr Tydfil,Merthyr Tydfil,2022,Independent,50,Labour,50,No vote share available; seat share presented
+Wales,Monmouthshire,Monmouthshire,2022,Labour,47.8,Conservative,39.1,No vote share available; seat share presented
+Wales,Neath Port Talbot,Neath Port Talbot,2022,Labour,42.9,Plaid Cymru,41.1,No vote or seat share available; first ward figures presented
+Wales,Newport,Newport,2022,Labour,49.1,Conservative,28.3,
+Wales,Pembrokeshire,Pembrokeshire,2022,Independent,51.6,Conservative,18.9,
+Wales,Powys,Powys,2022,Independent,31.1,Liberal Democrats,27.2,Lib Dem 1st in seats
+Wales,Rhondda Cynon Taf,Rhondda Cynon Taf,2022,Labour,,Plaid Cymru,,No vote or seat share available; first ward figures + next leading party presented
+Wales,Swansea,Swansea,2022,Labour,55,Liberal Democrats,14,
+Wales,Torfaen,Torfaen,2022,Independent,63.6,Labour,57.9,No vote or seat share available; first ward figures presented
+Wales,Vale of Glamorgan,Vale of Glamorgan,2022,Labour,33.8,Conservative,28.8,
+Wales,Wrexham,Wrexham,2022,Independent,41.1,Labour,25,No vote share available; seat share presented
